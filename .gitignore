@@ -1,0 +1,4 @@
+frontend/__pycache__/
+.idea/
+backend/__pycache__/
+data/__pycache__/
