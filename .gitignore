@@ -1,4 +1,5 @@
-frontend/__pycache__/
+app/__pycache__/
 .idea/
 backend/__pycache__/
 data/__pycache__/
+__pycache__/constants.cpython-37.pyc
